@@ -1,0 +1,8 @@
+/debug
+/release
+/Makefile
+/Makefile.Debug
+/Makefile.Release
+/ui_keypad.h
+/ui_siform.h
+/vc100.pdb
